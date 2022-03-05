@@ -8,6 +8,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -57,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646446173759</updated>
       <workItem from="1646446175020" duration="75000" />
+      <workItem from="1646446658388" duration="139000" />
     </task>
     <servers />
   </component>
